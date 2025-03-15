@@ -4,7 +4,7 @@ export default async function Home () {
   return (
     <div>
             <h1>{user?.username}</h1>
-
+      <h1> Hello People</h1>
       <h1>{user?.password}</h1>
     </div>
   )
